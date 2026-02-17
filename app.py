@@ -5,9 +5,9 @@ from datetime import datetime
 
 st.set_page_config(
 page_title=Smart Guardian | الحارس الدلالي,
-page_icon=“shield”,
-layout=“wide”,
-initial_sidebar_state=“expanded”
+page_icon=shield,
+layout=wide,
+initial_sidebar_state=expanded
 )
 
 st.markdown(”””
